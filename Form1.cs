@@ -21,6 +21,7 @@ namespace internetConnect
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //it is ok
             string url = "https://hubu.edu.cn/";
             
             WebClient clinet = new WebClient();
